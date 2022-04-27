@@ -2,4 +2,4 @@ This is done in master file
 Second edit in master file.
 Third edit in master file.
 Third edit in feature-two.
-
+Line Added in Feature-Three
